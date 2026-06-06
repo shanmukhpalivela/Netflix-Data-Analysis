@@ -2,15 +2,15 @@
 
 ## Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on a movie dataset using Python to uncover trends in genres, popularity, ratings, and release patterns. The objective is to gain meaningful insights from the dataset through data cleaning, transformation, visualization, and analysis.
+This project performs Exploratory Data Analysis (EDA) on a movie dataset using Python. The objective is to uncover trends in genres, popularity, ratings, and release patterns through data cleaning, transformation, visualization, and analysis.
 
 ## Dataset
 
 * Source: Movie Dataset
-* Records: Approximately 9,800 movies
 * Format: CSV
+* Records: Approximately 9,800 movies
 
-## Tools Used
+## Tools and Libraries Used
 
 * Python
 * Pandas
@@ -21,13 +21,17 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset using P
 
 ## Data Cleaning
 
+The following preprocessing steps were performed:
+
 * Checked for missing values
 * Identified and removed duplicate records
-* Converted date columns into datetime format
+* Converted date columns to datetime format
 * Extracted release year from release dates
-* Verified data types and consistency
+* Verified data types and data consistency
 
 ## Exploratory Data Analysis
+
+The analysis focused on:
 
 * Genre Distribution Analysis
 * Popularity Analysis
@@ -37,18 +41,11 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset using P
 
 ## Key Insights
 
-* Drama emerged as one of the most common genres.
+* Drama emerged as one of the most common genres in the dataset.
 * Movie production increased significantly over recent years.
 * Highly popular movies generally received better audience ratings.
-* Certain genres consistently dominated the dataset.
+* Certain genres consistently dominated the movie industry.
 * Release trends revealed substantial growth in movie production over time.
-
-## Project Structure
-
-Netflix-Data-Analysis->
-Netflix_Data_Analysis.ipynb->
-mymoviedb.csv->
-README.md
 
 ## Skills Demonstrated
 
@@ -59,7 +56,12 @@ README.md
 * Statistical Analysis
 * Insight Generation
 
+## Project Structure
+
+* Netflix_Data_Analysis.ipynb
+* mymoviedb.csv
+* README.md
+
 ## Author
 
-Shanmukh Palivela
-
+**Shanmukh Palivela**
