@@ -45,10 +45,10 @@ This project performs Exploratory Data Analysis (EDA) on a movie dataset using P
 
 ## Project Structure
 
-Netflix-Data-Analysis/
-├── Netflix_Data_Analysis.ipynb
-├── mymoviedb.csv
-└── README.md
+Netflix-Data-Analysis->
+Netflix_Data_Analysis.ipynb->
+mymoviedb.csv->
+README.md
 
 ## Skills Demonstrated
 
